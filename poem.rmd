@@ -27,9 +27,9 @@ And yet bear parting?
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
 "The sun was shining on the sea,  
-      Shining with all his might:  
+Shining with all his might:  
 He did his very best to make  
-      The billows smooth and bright —  
+The billows smooth and bright —  
 And this was odd, because it was. 
 
 
